@@ -17,10 +17,12 @@ flowchart TB
 
 ## Evaluating Research Questions
 
-#### It needs to be a question  {.unnumbered}
+#### Make sure it is actually a question {.unnumbered}
 
 - 'The influence of media on voting' is not a research question (or a question - needs to end with a question mark!)
 - Rephrasing this into an actual question will also help to force you to narrow down exactly what you want to find out: 'How does UK news coverage of party leader debates influence public perceptions of competency?'
+
+#### Don't pick a question you already know the answer to
 
 #### Real World Relevance {.unnumbered}
 
