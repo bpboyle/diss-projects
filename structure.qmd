@@ -15,6 +15,7 @@ These are the different sections that you will typically see in a dissertation o
 - **Literature Review**
 - **Theory**
 - **Data and Method**
+- **Results**
 - **Discussion**
 - **Conclusion**
 
@@ -22,15 +23,21 @@ Sometimes all of these sections may be present, sometimes only some of them will
 
 
 ::: {.callout-note}
-We are always asked "How long should each of my chapters be?" There is no set rule for how long each section should be. You can look at your course handbook or past student examples to get a rough idea, but the importance and size of each section will vary based on the type of research you are doing. 
+We always get asked **"How long should each of my chapters be?"**, but there is no set formula for how long each section should be. You can look at your course handbook or previous student examples to get a rough idea, but the importance and size of each section will vary based on the type of research you are doing. 
 
-A paper with advanced statistical methods might combine the lit review and theory sections, and have a larger data and method chapter; while a qualitative interpretive paper is more likely to have a shorter data and method section, but a longer results and discussion chapter.
+For example, a paper with advanced statistical methods might combine the lit review and theory sections, and have a larger data and method chapter; while a qualitative interpretive paper is more likely to have a shorter data and method section, but a longer results and discussion chapter.
 :::
+
+
+Common variations you will see might be: 
+
+- If a project includes hypotheses (you have theoretical expectations you want to test), these could be included throughout the theory section as each is first discussed, or they could be put into their own standalone section between the theory and method chapters.
+
 
 
 ## Example Structure of a Research Project
 
-#### Title
+### Title
 
 -	A title that clearly defines your research topic.
 
@@ -39,13 +46,7 @@ A paper with advanced statistical methods might combine the lit review and theor
 -	Brief summary of your research. A sentence each on; what you are looking into, how you did it, and what you found. Around 100-150 words.
 
 
-
-
-
-
-
-
-#### Introduction
+### Introduction
 
 -	Background/context of the chosen topic.
 -	Have a clear research question
@@ -55,14 +56,14 @@ A paper with advanced statistical methods might combine the lit review and theor
 -	Signpost what you will be discussing in the rest of the paper.
 
 
-#### Literature Review
+### Literature Review
 
 -	What is already known about the topic?
 -	Is there consensus within the literature, or is it contested?
 -	Do not just list everything that has been written on the topic. Only include relevant sources and ensure that you provide your own critical evaluation. 
 -	How does the existing literature relate to your own research?
 
-#### Theory
+### Theory
 
 -	What theories (potential answers to your RQ) have other studies came up with?
 -	What degree of support/evidence is there for each theory?
@@ -70,7 +71,7 @@ A paper with advanced statistical methods might combine the lit review and theor
     -	How can you turn these abstract theories/concepts into clear, testable hypotheses?
     -	Think about framing your hypotheses in terms of your independent and dependent variables
 
-#### Method
+### Method
 
 -	Why did you choose this method?
 -	Case selection, sample size, sampling method
@@ -78,12 +79,12 @@ A paper with advanced statistical methods might combine the lit review and theor
 -	How you went about collecting/analysing the data
 -	Any issues (measurement/sampling/missing data etc.)
 
-#### Results/Findings
+### Results/Findings
 
 -	What did you find out? What patterns did you discover?
 -	How does this relate to your hypotheses?
 
-#### Discussion/Conclusion
+### Discussion/Conclusion
 
 -	Summarize your findings
 -	What have your learned from your project?
@@ -91,14 +92,14 @@ A paper with advanced statistical methods might combine the lit review and theor
 -	How do your findings relate to the broader literature/wider society?
 -	Potential areas for future research
 
-#### Bibliography
+### Bibliography
 
 - Full references for all sources that are cited in the dissertation
 - Use the correct referencing system required by your assessment
 
-#### Appendices
+### Appendices
 
-- You can include supporting information here if you wish
-- This could be: Your list of survey questions, code used to run your analysis, additional figures or tables, additional information about your data
+- An appendix isn't always required, but this is where you can include any supporting information for your project
+- This could be anything from: Your list of survey questions, the code used to run your analysis, additional figures or tables, additional information about your datasets.
 
 
