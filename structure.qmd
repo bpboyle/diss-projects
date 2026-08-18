@@ -1,4 +1,4 @@
-Structure of a Dissertation
+# Structure of a Dissertation
 
 
 Dissertations should generally be structured in the same way as academic journal articles. 

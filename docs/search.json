@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Student Dissertations and Research Projects",
     "section": "",
-    "text": "Preface",
+    "text": "Preface\nThis book website is intended to offer resources for students working on a dissertation or research project. The content here is based on various different handouts and files I created for students over the years.\nThe content here provides general guidance only. For any assessment, you must always check the exact requirements provided in your class handbook or by the module leader, to ensure that you fulfill your specific assessment criteria.\nThe points covered here will apply to any general research project: from short research papers, undergraduate or postgraduate dissertations, or academic journal articles. The terms dissertation/project/paper will be used interchangeably throughout.",
     "crumbs": [
       "Preface"
     ]
@@ -22,44 +22,95 @@
   {
     "objectID": "practical_tips.html",
     "href": "practical_tips.html",
-    "title": "1  Use a cloud storage back-up",
+    "title": "1  Practical Tips",
     "section": "",
-    "text": "Practical Tips\n\nDropbox, onedrive\nHave free and/or student versions\nAlways have a back-up of your files in case you lose or damage your computer\n\n\n1.0.1 Use a reference manager\n\nZotero, mendeley, endnote\nHave free and/or student versions\nYou can use these to keep track of literature you find, organise your notes, and automatically create your references.\nYou can use these for all your classes, but will save you so much time on big projects like this.\n\n\n\n1.0.2 Would recommend using secondary data\n\nCollecting your own primary data (interviews, surveys) takes a great deal of time\nThere is a huge range of available secondary data sources you can use for almost any research topic\n\n\n\n1.0.3 Library Resources\n\nDissertations\nCite Them Right Harvard",
+    "text": "1.1 Use a cloud storage back-up\nGeneral things that will make your life easier.",
     "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Use a cloud storage back-up</span>"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Practical Tips</span>"
+    ]
+  },
+  {
+    "objectID": "practical_tips.html#use-a-cloud-storage-back-up",
+    "href": "practical_tips.html#use-a-cloud-storage-back-up",
+    "title": "1  Practical Tips",
+    "section": "",
+    "text": "Dropbox, onedrive\nHave free and/or student versions\nAlways have a back-up of your files in case you lose or damage your computer",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Practical Tips</span>"
+    ]
+  },
+  {
+    "objectID": "practical_tips.html#use-a-reference-manager",
+    "href": "practical_tips.html#use-a-reference-manager",
+    "title": "1  Practical Tips",
+    "section": "1.2 Use a reference manager",
+    "text": "1.2 Use a reference manager\n\nZotero, mendeley, endnote\nHave free and/or student versions\nYou can use these to keep track of literature you find, organise your notes, and automatically create your references.\nYou can use these for all your classes, but will save you so much time on big projects like this.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Practical Tips</span>"
+    ]
+  },
+  {
+    "objectID": "practical_tips.html#would-recommend-using-secondary-data",
+    "href": "practical_tips.html#would-recommend-using-secondary-data",
+    "title": "1  Practical Tips",
+    "section": "1.3 Would recommend using secondary data",
+    "text": "1.3 Would recommend using secondary data\n\nCollecting your own primary data (interviews, surveys) takes a great deal of time\nThere is a huge range of available secondary data sources you can use for almost any research topic",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Practical Tips</span>"
+    ]
+  },
+  {
+    "objectID": "practical_tips.html#library-resources",
+    "href": "practical_tips.html#library-resources",
+    "title": "1  Practical Tips",
+    "section": "1.4 Library Resources",
+    "text": "1.4 Library Resources\n\nDissertations\nCite Them Right Harvard",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Practical Tips</span>"
     ]
   },
   {
     "objectID": "research_questions.html",
     "href": "research_questions.html",
-    "title": "2  Coming up With Research Questions",
+    "title": "2  Research Questions",
     "section": "",
-    "text": "2.1 Evaluating Research Questions\nResearch Questions\nSocial scientists try to describe and explain different aspects of the social world. With this in mind, your research question(s) should communicate what you want to find out as clearly as possible. Research questions encapsulate what you’re doing, frame your project and inform hypotheses, methods, data collection etc.",
+    "text": "2.1 Coming up With Research Questions\nSocial scientists try to describe and explain different aspects of the social world. With this in mind, your research question(s) should communicate what you want to find out as clearly as possible. Research questions encapsulate what you’re doing, frame your project and inform hypotheses, methods, data collection etc.\n%%{init: {\"flowchart\": {\"wrappingWidth\": 220, \"nodeSpacing\": 100, \"rankSpacing\": 55}} }%%\nflowchart TB\n  A(**Research area**) --&gt; B(**Specific aspect of area**) --&gt; C(**Research question**)\n  D(Conflict studies) --&gt; E(Civilian violence during civil wars) --&gt; F(\"`Does the size of rebel groups impact levels of civilian violence during civil wars?`\")",
     "crumbs": [
       "Chapters",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Coming up With Research Questions</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Research Questions</span>"
     ]
   },
   {
     "objectID": "research_questions.html#evaluating-research-questions",
     "href": "research_questions.html#evaluating-research-questions",
-    "title": "2  Coming up With Research Questions",
-    "section": "",
-    "text": "It needs to be a question\n\n‘The influence of media on voting’ is not a research question (or a question - needs to end with a question mark!)\nRephrasing this into an actual question will also help to force you to narrow down exactly what you want to find out: ‘How does UK news coverage of party leader debates influence public perceptions of competency?’\n\n\n\nReal World Relevance\n\nTopic should have consequences for real world political/social/economic issues\nMost direct way is often when we can help understand something that effects many people’s lives, or predict/explain something that may be either harmful or beneficial\n\n\n\nScientific Relevance\n\nMakes a contribution to a scholarly literature in order to increase our collective ability to construct scientific explanations of some aspect of the world\nDirects attention to intellectual puzzles that remain to be solved, have not yet been posed, and the methods to solve them\nImportant to others, not exactly duplicating past research (though replication is valuable)\n\n\n\nClear & easily understood\n\nNot too long, stay away from jargon as much as possible\nAble to be understood by different audiences\n\n\n\nScope\n\nToo narrow – not able to generalize to wider contexts, limited use to others\nToo broad – unable to give concrete answers if problem is too abstract\n\n\n\nFeasibility\n\nResearchable in terms of time/skills/money required\nRealistic in your given timeframe/deadline\nIdentify the appropriate methods needed to answer your given RQ\nPotential funding/ethics approval issues\n\n\n\n2.1.1 Sub-questions\n\n\n2.1.2 Ways to relate topics to the existing academic literature\n\nAttempt to provide evidence to one side of a debate within the current literature\nApply existing approaches to new contexts or time periods\nChoose an area in the literature, of which no one has done a systematic study\nArgue that an important topic has been overlooked, and begin a study of that area",
+    "title": "2  Research Questions",
+    "section": "2.2 Evaluating Research Questions",
+    "text": "2.2 Evaluating Research Questions\n\nIt needs to be a question\n\n‘The influence of media on voting’ is not a research question (or a question - needs to end with a question mark!)\nRephrasing this into an actual question will also help to force you to narrow down exactly what you want to find out: ‘How does UK news coverage of party leader debates influence public perceptions of competency?’\n\n\n\nReal World Relevance\n\nTopic should have consequences for real world political/social/economic issues\nMost direct way is often when we can help understand something that effects many people’s lives, or predict/explain something that may be either harmful or beneficial\n\n\n\nScientific Relevance\n\nMakes a contribution to a scholarly literature in order to increase our collective ability to construct scientific explanations of some aspect of the world\nDirects attention to intellectual puzzles that remain to be solved, have not yet been posed, and the methods to solve them\nImportant to others, not exactly duplicating past research (though replication is valuable)\n\n\n\nClear & easily understood\n\nNot too long, stay away from jargon as much as possible\nAble to be understood by different audiences\n\n\n\nScope\n\nToo narrow – not able to generalize to wider contexts, limited use to others\nToo broad – unable to give concrete answers if problem is too abstract\n\n\n\nFeasibility\n\nResearchable in terms of time/skills/money required\nRealistic in your given timeframe/deadline\nIdentify the appropriate methods needed to answer your given RQ\nPotential funding/ethics approval issues\n\n\n\n2.2.1 Sub-questions\n\n\n2.2.2 Ways to relate topics to the existing academic literature\n\nAttempt to provide evidence to one side of a debate within the current literature\nApply existing approaches to new contexts or time periods\nChoose an area in the literature, of which no one has done a systematic study\nArgue that an important topic has been overlooked, and begin a study of that area",
     "crumbs": [
       "Chapters",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Coming up With Research Questions</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Research Questions</span>"
     ]
   },
   {
     "objectID": "structure.html",
     "href": "structure.html",
-    "title": "4  Example Structure of a Research Project",
+    "title": "4  Structure of a Dissertation",
     "section": "",
-    "text": "Structure of a Dissertation\nDissertations should generally be structured in the same way as academic journal articles.\nThese are the different sections that you will typically see in a dissertation or research article:\n\nTitle\nAbstract\nIntroduction\nLiterature Review\nTheory\nData and Method\nDiscussion\nConclusion\n\nSometimes all of these sections may be present, sometimes only some of them will be. Different sections also might be much shorter or longer than others, or even not included at all, depending on what your research project is examining. Check your class handbook for your module to see what specific structure and format is required for your submission.\n\n\n\n\n\n\nNote\n\n\n\nWe are always asked “How long should each of my chapters be?” There is no set rule for how long each section should be. You can look at your course handbook or past student examples to get a rough idea, but the importance and size of each section will vary based on the type of research you are doing.\nA paper with advanced statistical methods might combine the lit review and theory sections, and have a larger data and method chapter; while a qualitative interpretive paper is more likely to have a shorter data and method section, but a longer results and discussion chapter.\n\n\n\n4.0.0.1 Title\n\nA title that clearly defines your research topic.\n\n\n\n4.0.0.2 Abstract\n\nBrief summary of your research. A sentence each on; what you are looking into, how you did it, and what you found. Around 100-150 words.\n\n\n\n4.0.0.3 Introduction\n\nBackground/context of the chosen topic.\nHave a clear research question\nWhy the topic is relevant?\n\n\nReal world relevance\nScientific relevance\n\n\nSignpost what you will be discussing in the rest of the paper.\n\n\n\n4.0.0.4 Literature Review\n\nWhat is already known about the topic?\nIs there consensus within the literature, or is it contested?\nDo not just list everything that has been written on the topic. Only include relevant sources and ensure that you provide your own critical evaluation.\nHow does the existing literature relate to your own research?\n\n\n\n4.0.0.5 Theory\n\nWhat theories (potential answers to your RQ) have other studies came up with?\nWhat degree of support/evidence is there for each theory?\nHypotheses\n\nHow can you turn these abstract theories/concepts into clear, testable hypotheses?\nThink about framing your hypotheses in terms of your independent and dependent variables\n\n\n\n\n4.0.0.6 Method\n\nWhy did you choose this method?\nCase selection, sample size, sampling method\nWhat are your independent/dependent variables? How can you measure them?\nHow you went about collecting/analysing the data\nAny issues (measurement/sampling/missing data etc.)\n\n\n\n4.0.0.7 Results/Findings\n\nWhat did you find out? What patterns did you discover?\nHow does this relate to your hypotheses?\n\n\n\n4.0.0.8 Discussion/Conclusion\n\nSummarize your findings\nWhat have your learned from your project?\nUsefulness/limitations of your chosen method\nHow do your findings relate to the broader literature/wider society?\nPotential areas for future research\n\n\n\n4.0.0.9 Bibliography\n\nFull references for all sources that are cited in the dissertation\nUse the correct referencing system required by your assessment\n\n\n\n4.0.0.10 Appendices\n\nYou can include supporting information here if you wish\nThis could be: Your list of survey questions, code used to run your analysis, additional figures or tables, additional information about your data",
+    "text": "4.1 Example Structure of a Research Project\nDissertations should generally be structured in the same way as academic journal articles.\nThese are the different sections that you will typically see in a dissertation or research article:\nSometimes all of these sections may be present, sometimes only some of them will be. Different sections also might be much shorter or longer than others, or even not included at all, depending on what your research project is examining. Check your class handbook for your module to see what specific structure and format is required for your submission.",
     "crumbs": [
       "Chapters",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Example Structure of a Research Project</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Structure of a Dissertation</span>"
+    ]
+  },
+  {
+    "objectID": "structure.html#example-structure-of-a-research-project",
+    "href": "structure.html#example-structure-of-a-research-project",
+    "title": "4  Structure of a Dissertation",
+    "section": "",
+    "text": "4.1.0.1 Title\n\nA title that clearly defines your research topic.\n\n\n\n4.1.0.2 Abstract\n\nBrief summary of your research. A sentence each on; what you are looking into, how you did it, and what you found. Around 100-150 words.\n\n\n\n4.1.0.3 Introduction\n\nBackground/context of the chosen topic.\nHave a clear research question\nWhy the topic is relevant?\n\n\nReal world relevance\nScientific relevance\n\n\nSignpost what you will be discussing in the rest of the paper.\n\n\n\n4.1.0.4 Literature Review\n\nWhat is already known about the topic?\nIs there consensus within the literature, or is it contested?\nDo not just list everything that has been written on the topic. Only include relevant sources and ensure that you provide your own critical evaluation.\nHow does the existing literature relate to your own research?\n\n\n\n4.1.0.5 Theory\n\nWhat theories (potential answers to your RQ) have other studies came up with?\nWhat degree of support/evidence is there for each theory?\nHypotheses\n\nHow can you turn these abstract theories/concepts into clear, testable hypotheses?\nThink about framing your hypotheses in terms of your independent and dependent variables\n\n\n\n\n4.1.0.6 Method\n\nWhy did you choose this method?\nCase selection, sample size, sampling method\nWhat are your independent/dependent variables? How can you measure them?\nHow you went about collecting/analysing the data\nAny issues (measurement/sampling/missing data etc.)\n\n\n\n4.1.0.7 Results/Findings\n\nWhat did you find out? What patterns did you discover?\nHow does this relate to your hypotheses?\n\n\n\n4.1.0.8 Discussion/Conclusion\n\nSummarize your findings\nWhat have your learned from your project?\nUsefulness/limitations of your chosen method\nHow do your findings relate to the broader literature/wider society?\nPotential areas for future research\n\n\n\n4.1.0.9 Bibliography\n\nFull references for all sources that are cited in the dissertation\nUse the correct referencing system required by your assessment\n\n\n\n4.1.0.10 Appendices\n\nYou can include supporting information here if you wish\nThis could be: Your list of survey questions, code used to run your analysis, additional figures or tables, additional information about your data",
+    "crumbs": [
+      "Chapters",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Structure of a Dissertation</span>"
     ]
   }
 ]
