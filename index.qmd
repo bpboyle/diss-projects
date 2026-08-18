@@ -1,11 +1,11 @@
 # Preface {.unnumbered}
 
 
-This book website is intended to offer resources for students working on a dissertation or research project. The content here is based on various different handouts and files I created for students over the years.
+This book website is intended to offer resources for students working on dissertations or research projects. The content is based on various different handouts and files I created for students over the years.
 
-The content here provides general guidance only. For any assessment, you must always check the exact requirements provided in your class handbook or by the module leader, to ensure that you fulfill your specific assessment criteria.
+The content provides general guidance only. For any assessment, you must always check the exact requirements provided in your class handbook or by the module leader to ensure you fulfill your specific assessment criteria.
 
-The points covered here will apply to any general research project: from short research papers, undergraduate or postgraduate dissertations, or academic journal articles. The terms dissertation/project/paper will be used interchangeably throughout.
+The points covered here will apply to any general research project including short research papers, and undergraduate or postgraduate dissertations. The terms dissertation/project/paper will be used interchangeably throughout.
 
 
 ## Licence {.unnumbered}

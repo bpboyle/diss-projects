@@ -21,7 +21,11 @@ book:
         - research_questions.qmd
         - lit_reviews.qmd
         - structure.qmd
+    - part: Methods
+      chapters:
+      - surveys.qmd
     - references.qmd
+    
 
 bibliography: references.bib
 
