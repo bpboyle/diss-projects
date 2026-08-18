@@ -41,7 +41,7 @@ Common variations you will see might be:
 
 -	A title that clearly defines your research topic.
 
-#### Abstract 
+### Abstract 
 
 -	Brief summary of your research. A sentence each on; what you are looking into, how you did it, and what you found. Around 100-150 words.
 
