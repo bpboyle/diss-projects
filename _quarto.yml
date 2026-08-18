@@ -1,0 +1,30 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Student Dissertations and Research Projects"
+  author: "Brian Paul Boyle"
+  date: "2026-08-13"
+  page-footer:
+    left: "© 2026 Brian Paul Boyle"
+    right:
+      - text: "CC BY-NC-ND 4.0"
+        href: https://creativecommons.org/licenses/by-nc-nd/4.0/
+  chapters:
+    - index.qmd
+    - part: test.qmd
+      chapters:
+        - install.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+
+editor: visual
+

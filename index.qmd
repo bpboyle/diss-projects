@@ -1,0 +1,7 @@
+# Preface {.unnumbered}
+
+## Licence {.unnumbered}
+
+[![](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png){fig-alt="CC BY-NC-ND 4.0" width="88"}](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+This book is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Licence](https://creativecommons.org/licenses/by-nc-nd/4.0/).
