@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Student Dissertations and Research Projects",
+    "section": "",
+    "text": "Preface",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "index.html#licence",
+    "href": "index.html#licence",
+    "title": "Student Dissertations and Research Projects",
+    "section": "Licence",
+    "text": "Licence\n\nThis book is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Licence.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "install.html",
+    "href": "install.html",
+    "title": "1  Installing R",
+    "section": "",
+    "text": "1.1 Installing RStudio\nInstalling R and RStudio\nR is the programming language software that will run the code we want to execute. RStudio is a separate piece of software called an Integrated Development Environment (IDE), which basically acts as a wrapper for R, and allows us to run our code while also providing lots of additional helpful features.\nYou could run your code directly in R if you wanted to, but most people will use of the many different IDEs thare are compataible with R (e.g. VSCode, Positron). For this class we will be using R and RStudio, as it is relatively simple to set up and easy to use.\nR is maintained by a core team of developers, and is hosted at the The Comprehensive R Archive Network (CRAN). RStudio is developed by a company called Posit. We will need to download both pieces of software separately.\nThe first step is to download R from The Comprehensive R Archive Network (CRAN) here: https://cran.r-project.org/.\nWindows\nClick ‘Download R for Windows’, then ‘base’, then ‘Download R-4.61 for Windows’ (when you do it, this will list the most recent version of R instead). This will download an R installer. Run this file to open the R installation wizard, which will walk you through the installation. You can just select the default options at each stage.\nMac\nClick ‘Download R for macOS’, then select the package version for your machine ‘R-4.6.1-arm64.pkg’ (this will list the most recent version of R). Just like for windows, this will download an R installer. Run this file to start the R installation wizard, which will walk you through the installation. You can just select the default options at each stage.\nThe next step is to download the RStudio IDE desktop version from the Posit website here: https://docs.posit.co/ide/user/#rstudio-ide-oss-downloads\nSelect the correct download for your computer’s operating system (Windows/Mac/Linux). Once the download is complete, run the file to begin the installation wizard and follow the instructions. You can select the default options throughout.",
+    "crumbs": [
+      "test.qmd",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Installing R</span>"
+    ]
+  },
+  {
+    "objectID": "install.html#running-rstudio",
+    "href": "install.html#running-rstudio",
+    "title": "1  Installing R",
+    "section": "1.2 Running RStudio",
+    "text": "1.2 Running RStudio\nOnce installed, you can now open RStudio. Next, we will customise some options to set up our RStudio environment.",
+    "crumbs": [
+      "test.qmd",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Installing R</span>"
+    ]
+  }
+]
