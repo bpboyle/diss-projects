@@ -13,9 +13,12 @@ book:
         href: https://creativecommons.org/licenses/by-nc-nd/4.0/
   chapters:
     - index.qmd
-    - part: test.qmd
+    - practical_tips.qmd
+    - part: Chapters
       chapters:
-        - install.qmd
+        - research_questions.qmd
+        - lit_reviews.qmd
+        - structure.qmd
     - references.qmd
 
 bibliography: references.bib

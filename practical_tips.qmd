@@ -1,0 +1,21 @@
+Practical Tips
+
+
+### Use a cloud storage back-up
+-	Dropbox, onedrive
+-	Have free and/or student versions
+-	Always have a back-up of your files in case you lose or damage your computer
+
+### Use a reference manager
+-	Zotero, mendeley, endnote
+-	Have free and/or student versions
+-	You can use these to keep track of literature you find, organise your notes, and automatically create your references.
+-	You can use these for all your classes, but will save you so much time on big projects like this.
+
+### Would recommend using secondary data
+-	Collecting your own primary data (interviews, surveys) takes a great deal of time
+-	There is a huge range of available secondary data sources you can use for almost any research topic
+
+### Library Resources
+-	[Dissertations](https://www.ncl.ac.uk/academic-skills-kit/assessment/dissertations-and-theses/)
+- [Cite Them Right Harvard](https://www.citethemrightonline.com/category-list?docid=CTRHarvard)

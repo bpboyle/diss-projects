@@ -1,0 +1,65 @@
+Research Questions
+
+
+## Coming up With Research Questions
+
+Social scientists try to describe and explain different aspects of the social world. With this in mind, your research question(s) should communicate what you want to find out as clearly as possible. Research questions encapsulate what you’re doing, frame your project and inform hypotheses, methods, data collection etc.
+
+
+
+
+```{mermaid}
+%%{init: {"flowchart": {"wrappingWidth": 220, "nodeSpacing": 100, "rankSpacing": 55}} }%%
+flowchart TB
+  A(**Research area**) --> B(**Specific aspect of area**) --> C(**Research question**)
+  D(Conflict studies) --> E(Civilian violence during civil wars) --> F("`Does the size of rebel groups impact levels of civilian violence during civil wars?`")
+```
+
+## Evaluating Research Questions
+
+#### It needs to be a question  {.unnumbered}
+
+- 'The influence of media on voting' is not a research question (or a question - needs to end with a question mark!)
+- Rephrasing this into an actual question will also help to force you to narrow down exactly what you want to find out: 'How does UK news coverage of party leader debates influence public perceptions of competency?'
+
+#### Real World Relevance {.unnumbered}
+
+-	Topic should have consequences for real world political/social/economic issues
+-	Most direct way is often when we can help understand something that effects many people’s lives, or predict/explain something that may be either harmful or beneficial
+
+#### Scientific Relevance {.unnumbered}
+
+-	Makes a contribution to a scholarly literature in order to increase our collective ability to construct scientific explanations of some aspect of the world
+-	Directs attention to intellectual puzzles that remain to be solved, have not yet been posed, and the methods to solve them
+-	Important to others, not exactly duplicating past research (though replication is valuable)
+
+#### Clear & easily understood {.unnumbered}
+
+-	Not too long, stay away from jargon as much as possible
+-	Able to be understood by different audiences
+
+#### Scope {.unnumbered}
+
+-	Too narrow – not able to generalize to wider contexts, limited use to others
+-	Too broad – unable to give concrete answers if problem is too abstract
+
+
+#### Feasibility {.unnumbered}
+
+- Researchable in terms of time/skills/money required
+-	Realistic in your given timeframe/deadline
+-	Identify the appropriate methods needed to answer your given RQ
+-	Potential funding/ethics approval issues
+
+
+
+
+### Sub-questions
+
+### Ways to relate topics to the existing academic literature
+
+-	Attempt to provide evidence to one side of a debate within the current literature
+-	Apply existing approaches to new contexts or time periods
+-	Choose an area in the literature, of which no one has done a systematic study
+-	Argue that an important topic has been overlooked, and begin a study of that area
+

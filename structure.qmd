@@ -1,0 +1,104 @@
+Structure of a Dissertation
+
+
+Dissertations should generally be structured in the same way as academic journal articles. 
+
+
+
+
+
+These are the different sections that you will typically see in a dissertation or research article:
+
+- **Title**
+- **Abstract**
+- **Introduction**
+- **Literature Review**
+- **Theory**
+- **Data and Method**
+- **Discussion**
+- **Conclusion**
+
+Sometimes all of these sections may be present, sometimes only some of them will be. Different sections also might be much shorter or longer than others, or even not included at all, depending on what your research project is examining. Check your class handbook for your module to see what specific structure and format is required for your submission.
+
+
+::: {.callout-note}
+We are always asked "How long should each of my chapters be?" There is no set rule for how long each section should be. You can look at your course handbook or past student examples to get a rough idea, but the importance and size of each section will vary based on the type of research you are doing. 
+
+A paper with advanced statistical methods might combine the lit review and theory sections, and have a larger data and method chapter; while a qualitative interpretive paper is more likely to have a shorter data and method section, but a longer results and discussion chapter.
+:::
+
+
+## Example Structure of a Research Project
+
+#### Title
+
+-	A title that clearly defines your research topic.
+
+#### Abstract 
+
+-	Brief summary of your research. A sentence each on; what you are looking into, how you did it, and what you found. Around 100-150 words.
+
+
+
+
+
+
+
+
+#### Introduction
+
+-	Background/context of the chosen topic.
+-	Have a clear research question
+-	Why the topic is relevant?
+  i)	Real world relevance
+  ii)	Scientific relevance
+-	Signpost what you will be discussing in the rest of the paper.
+
+
+#### Literature Review
+
+-	What is already known about the topic?
+-	Is there consensus within the literature, or is it contested?
+-	Do not just list everything that has been written on the topic. Only include relevant sources and ensure that you provide your own critical evaluation. 
+-	How does the existing literature relate to your own research?
+
+#### Theory
+
+-	What theories (potential answers to your RQ) have other studies came up with?
+-	What degree of support/evidence is there for each theory?
+  - Hypotheses 
+    -	How can you turn these abstract theories/concepts into clear, testable hypotheses?
+    -	Think about framing your hypotheses in terms of your independent and dependent variables
+
+#### Method
+
+-	Why did you choose this method?
+-	Case selection, sample size, sampling method
+-	What are your independent/dependent variables? How can you measure them?
+-	How you went about collecting/analysing the data
+-	Any issues (measurement/sampling/missing data etc.)
+
+#### Results/Findings
+
+-	What did you find out? What patterns did you discover?
+-	How does this relate to your hypotheses?
+
+#### Discussion/Conclusion
+
+-	Summarize your findings
+-	What have your learned from your project?
+-	Usefulness/limitations of your chosen method
+-	How do your findings relate to the broader literature/wider society?
+-	Potential areas for future research
+
+#### Bibliography
+
+- Full references for all sources that are cited in the dissertation
+- Use the correct referencing system required by your assessment
+
+#### Appendices
+
+- You can include supporting information here if you wish
+- This could be: Your list of survey questions, code used to run your analysis, additional figures or tables, additional information about your data
+
+
